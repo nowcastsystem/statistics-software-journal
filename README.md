@@ -5,3 +5,7 @@
 
 * [Useful list](https://www.software.ac.uk/which-journals-should-i-publish-my-software) -  In which journals should I publish my software
 
+* [Rob J Hyndman's Software List](https://robjhyndman.com/software/) -  code by Rob J Hyndman. Awesome.
+
+* [Facebook Prophet](https://github.com/facebook/prophet) - Facebook's open source time series forcasting package.
+
