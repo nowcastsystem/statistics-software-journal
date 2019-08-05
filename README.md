@@ -10,3 +10,8 @@
 * [Facebook Prophet](https://github.com/facebook/prophet) - Facebook's open source time series forcasting package.
 
 * [statsmodel](http://www.statsmodels.org/stable/index.html) - Tidy outcome formatting
+
+
+# Papers
+
+* [https://peerj.com/preprints/3190.pdf] Paper for Facebook Prophet.
