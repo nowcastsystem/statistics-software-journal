@@ -18,6 +18,6 @@
 
 * [International Journal of Forcasting](https://www.journals.elsevier.com/international-journal-of-forecasting)
 * [Journal of Statistical Software](https://www.jstatsoft.org/index) -  publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms. 
-* [The American Statistician](https://amstat.tandfonline.com/action/journalInformation?journalCode=utas20The American Statistician)
+* [The American Statistician](https://amstat.tandfonline.com/action/journalInformation?journalCode=utas20)
 
 * [Useful list](https://www.software.ac.uk/which-journals-should-i-publish-my-software) -  In which journals should I publish my software
