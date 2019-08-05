@@ -14,4 +14,4 @@
 
 # Papers
 
-* [https://peerj.com/preprints/3190.pdf] Paper for Facebook Prophet.
+* [Paper for Facebook Prophet](https://peerj.com/preprints/3190.pdf) 
