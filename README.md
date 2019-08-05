@@ -1,9 +1,5 @@
 # Awesome time series forcasting list
 
-* [Journal of Statistical Software](https://www.jstatsoft.org/index) -  publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms. 
-
-
-* [Useful list](https://www.software.ac.uk/which-journals-should-i-publish-my-software) -  In which journals should I publish my software
 
 # Software
 * [Rob J Hyndman's Software List](https://robjhyndman.com/software/) -  code by Rob J Hyndman. Awesome.
@@ -20,6 +16,8 @@
 
 # Journal
 
-* Journal of Statistical Software
-* International Journal of Forcasting
-*
+* [International Journal of Forcasting](https://www.journals.elsevier.com/international-journal-of-forecasting)
+* [Journal of Statistical Software](https://www.jstatsoft.org/index) -  publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms. 
+
+
+* [Useful list](https://www.software.ac.uk/which-journals-should-i-publish-my-software) -  In which journals should I publish my software
