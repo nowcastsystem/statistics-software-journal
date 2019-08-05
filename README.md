@@ -1,3 +1,7 @@
 # statistics-software-journal
 
-* [aerosolve](https://github.com/airbnb/aerosolve) - A machine learning library by Airbnb designed from the ground up to be human friendly.
+* [Journal of Statistical Software](https://www.jstatsoft.org/index) -  publishes articles, book reviews, code snippets, and software reviews on the subject of statistical software and algorithms. 
+
+
+* [Useful list](https://www.software.ac.uk/which-journals-should-i-publish-my-software) -  In which journals should I publish my software
+
