@@ -14,4 +14,11 @@
 
 # Papers
 
-* [Paper for Facebook Prophet](https://peerj.com/preprints/3190.pdf) 
+* [Paper for Facebook Prophet](https://peerj.com/preprints/3190.pdf)
+* [Paper for Facebook Prophet(Published Version)](https://amstat.tandfonline.com/doi/pdf/10.1080/00031305.2017.1380080?needAccess=true)
+
+# Journal
+
+* Journal of Statistical Software
+* International Journal of Forcasting
+*
